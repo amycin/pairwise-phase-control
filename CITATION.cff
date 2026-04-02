@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Pairwise Local Phase Summaries in Measurement-Limited Statevector Simulation Under Continuous Phase-Kick Noise"
+message: "If you use this repository, please cite the manuscript and repository record."
+type: software
+authors:
+  - family-names: McBride
+    given-names: Amy
+    affiliation: Independent Artist and Independent Researcher
+repository-code: "https://github.com/<your-account>/<your-repo>"
+license: MIT
+abstract: >
+  Repository package for a simulation-analysis manuscript describing repeated-seed,
+  measurement-limited statevector simulations of pairwise local phase summaries under
+  continuous phase-kick noise.
+keywords:
+  - quantum control
+  - statevector simulation
+  - phase noise
+  - measurement-limited feedback
+  - reproducibility
