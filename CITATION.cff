@@ -3,10 +3,10 @@ title: "Pairwise Local Phase Summaries in Measurement-Limited Statevector Simula
 message: "If you use this repository, please cite the manuscript and repository record."
 type: software
 authors:
-  - family-names: McBride
+  - family-names: Cin
     given-names: Amy
-    affiliation: Independent Artist and Independent Researcher
-repository-code: "https://github.com/<your-account>/<your-repo>"
+    affiliation: Independent Artist
+repository-code: "https://github.com/amycin"
 license: MIT
 abstract: >
   Repository package for a simulation-analysis manuscript describing repeated-seed,
