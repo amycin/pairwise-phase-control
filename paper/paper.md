@@ -5,7 +5,7 @@ author:
 date: "2026-04-02"
 ---
 
-**Affiliation:** Independent Artist and Independent Researcher
+**Affiliation:** Independent Artist 
 
 ## Abstract
 
